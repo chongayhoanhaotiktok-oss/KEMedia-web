@@ -39,8 +39,8 @@ export default function Footer() {
           <div>
             <h4 className="font-bold mb-4">{t({ en: 'Contact', vn: 'Liên Hệ' })}</h4>
             <ul className="space-y-2 text-gray-400">
-              <li>hello@kemedia.vn</li>
-              <li>+84 123 456 789</li>
+              <li>kemedia2025@gmail.com</li>
+              <li>+84912 031 975</li>
               <li>Hanoi, Vietnam</li>
             </ul>
           </div>
@@ -53,3 +53,4 @@ export default function Footer() {
     </footer>
   )
 }
+
